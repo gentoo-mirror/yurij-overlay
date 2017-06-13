@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer status="active">
+    <email>yurij@mikhalevi.ch</email>
+    <name>Yurij Mikhalevich</name>
+  </maintainer>
+  <longdescription>
+    TimeCamp is an automatic time tracking and app usage tracking software
+	which helps you keep your projects and budget under control.
+  </longdescription>
+</pkgmetadata>
