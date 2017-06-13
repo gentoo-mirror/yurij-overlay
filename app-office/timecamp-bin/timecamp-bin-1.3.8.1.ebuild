@@ -5,7 +5,8 @@ EAPI=6
 
 inherit unpacker
 
-MY_P=${PN}_${PV}
+MY_PN=timecamp
+MY_P=${MY_PN}_${PV}
 
 DESCRIPTION="Track time and app usage with timecamp.com"
 BASE_SERVER_URI="https://www.timecamp.com"
