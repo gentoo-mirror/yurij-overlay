@@ -25,6 +25,7 @@ RDEPEND="${DEPEND}
 	pulseaudio? ( media-sound/pulseaudio )
 	gstreamer? ( media-libs/gst-plugins-base )
 	dev-db/sqlite
+	dev-db/unixODBC
 	dev-libs/glib
 	dev-libs/nss
 	dev-libs/libxslt
