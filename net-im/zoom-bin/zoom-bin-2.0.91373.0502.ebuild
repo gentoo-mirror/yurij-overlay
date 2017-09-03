@@ -29,7 +29,10 @@ RDEPEND="${DEPEND}
 	dev-libs/glib
 	dev-libs/nss
 	dev-libs/libxslt
+	dev-qt/qtmultimedia
 	media-libs/fontconfig
+	media-libs/gstreamer
+	media-libs/gst-plugins-base
 	media-libs/mesa
 	x11-libs/libxcb
 	x11-libs/libXcomposite
